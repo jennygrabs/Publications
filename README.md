@@ -5,3 +5,6 @@ Publications from Imageomics groups (Methods in Ecology and Evolution format)
 2. Diamond, K. M., Rolfe, S. M., Kwon, R. Y., & Maga, A. M. (2022). Computational anatomy and geometric shape analysis enables analysis of complex craniofacial phenotypes in zebrafish. Biology Open, 11(2), bio058948. https://doi.org/10.1242/bio.058948
 3. Elhamod, M., Diamond, K. M., Maga, A. M., Bakis, Y., Bart Jr., H. L., Mabee, P., Dahdul, W., Leipzig, J., Greenberg, J., Avants, B., & Karpatne, A. (2022). Hierarchy-guided neural network for species classification. Methods in Ecology and Evolution, 13(3), 642–652. https://doi.org/10.1111/2041-210X.13768
 4. Song, C. H., Kil, J., Pan, T.-Y., Sadler, B. M., Chao, W.-L., & Su, Y. (2022). One Step at a Time: Long-Horizon Vision-and-Language Navigation with Milestones. arXiv [cs.AI]. Retrieved from http://arxiv.org/abs/2202.07028
+
+
+4. Tuia, D., Kellenberger, B., Beery, S. et al. Perspectives in machine learning for wildlife conservation. Nat Commun 13, 792 (2022). Authors: Devis Tuia, Benjamin Kellenberger, Sara Beery, Blair R. Costelloe, Silvia Zuffi, Benjamin Risse, Alexander Mathis, Mackenzie W. Mathis, Frank van Langevelde, Tilo Burghardt, Roland Kays, Holger Klinck, Martin Wikelski, Iain D. Couzin, Grant van Horn, Margaret C. Crofoot, Charles V. Stewart & Tanya Berger-Wolf. https://www.nature.com/articles/s41467-022-27980-y
